@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asad Ahmad</h1>
 <h3 align="center">Enthusiastic Computer Science undergraduate student with a passion for Development, machine learning and automation.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khair01&theme=onestar" alt="khair01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Asadahmed09&theme=onestar" alt="Asadahmed09" /></a> </p>
 
 - 🔭 I’m currently working on **E medicare**
 
