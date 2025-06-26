@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Asadahmed09&theme=onestar" alt="Asadahmed09" /></a> </p>
 
-- 🔭 I’m currently working on **E medicare**
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-ahmed-346226327/)
 </div><h3 align="left">Languages and Tools:</h3>
