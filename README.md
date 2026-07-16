@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Asad Ahmad</h1>
-<h3 align="center">Enthusiastic Computer Science undergraduate student with a passion for Development, machine learning and automation.</h3>
+# Hi 👋 I'm Asad Ahmad
+
+### Computer Science Undergraduate | Full-Stack Developer | Systems Programmer
+
+Building scalable web applications, exploring operating systems, and solving real-world problems with software.
 
 
 ## 🌐 Socials:
